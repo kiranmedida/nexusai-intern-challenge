@@ -1,0 +1,4 @@
+openai
+asyncpg
+pytest
+python-dotenv
