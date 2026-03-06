@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 langchain
 openai
 faiss-cpu
 sentence-transformers
 tiktoken
+=======
+openai
+asyncpg
+pytest
+python-dotenv
+>>>>>>> 0951646022f437039b48039fe5a8690287ae88dd
